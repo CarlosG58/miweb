@@ -2,3 +2,8 @@ lista de compras
 azucar
 panela
 chocolate
+papas
+alverjas
+arroz
+leche
+carne
